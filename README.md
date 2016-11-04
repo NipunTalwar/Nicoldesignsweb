@@ -1,0 +1,2 @@
+# Nicoldesignsweb
+ Static pages.
